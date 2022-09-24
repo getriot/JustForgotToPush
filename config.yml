@@ -19,13 +19,13 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, PaperMod, learning, technology, web developers, developers, design patterns, css, web]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  defaultTheme: dark # dark, light
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -115,18 +115,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
