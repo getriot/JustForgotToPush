@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://iforgottopush.netlify.app/
 languageCode: en-us
 title: I forgot to push
 theme: PaperMod
