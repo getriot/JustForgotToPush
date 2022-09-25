@@ -85,9 +85,9 @@ params:
     - name: github
       url: "https://github.com/getriot"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "ASz5HxGn4UeTKZ0QBQT9aw0AN6QLuRaUKVO1mTkIcnk"
   #   bing:
   #     SiteVerificationTag: "XYZabc"
   #   yandex:
