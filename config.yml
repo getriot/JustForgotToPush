@@ -73,9 +73,9 @@ minify:
         url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "I swear it's production ready"
-    Content: "I just forgot to push."
+  # homeInfoParams:
+  #   Title: "I swear it's production ready"
+  #   Content: "I just forgot to push."
 
   socialIcons:
     - name: twitter
@@ -85,13 +85,13 @@ minify:
     - name: github
       url: "https://github.com/getriot"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
