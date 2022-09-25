@@ -17,9 +17,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-#   title: I Forgot To Push
-#   description: "I swear i did it. I just forgot to push."
-#   keywords: [Blog, Portfolio, PaperMod, learning, technology, web developers, developers, design patterns, css, web]
+  title: I Forgot To Push
+  description: "I swear i did it. I just forgot to push."
+  keywords: [Blog, Portfolio, PaperMod, learning, technology, web developers, developers, design patterns, css, web]
   author: Gittre
 #   # author: ["Me", "You"] # multiple authors
 #   images: [""]
